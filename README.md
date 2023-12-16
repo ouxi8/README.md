@@ -1,6 +1,6 @@
 # Coding Enthusiast and Tech Explorer
 
-Hello there! 👋 I'm Ou Xiang an electronics and automation student who has a genuine passion for coding and robotics. I find the world of technology endlessly fascinating and love exploring the endless possibilities that coding brings to the world.
+Hello there! 👋 I'm Ou Xiang an electronics and automation student who has a genuine passion for coding, robotics, and entrepreneurship. I find the world of technology endlessly fascinating and love exploring the endless possibilities that coding brings to the world.
 
 ## About Me
 
