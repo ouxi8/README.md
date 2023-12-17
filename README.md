@@ -12,8 +12,9 @@ Hello there! 👋 I'm Ou Xiang an electronics and automation student who has a g
   <img src="https://github.com/ouxi8/ouxi8/assets/110427518/c0963399-dfe2-42a9-a4fb-3581d7fd6b5c" width="15" height="15"> Arduino.
 - 🌐 Familiar with 
   <img src="https://github.com/ouxi8/ouxi8/assets/110427518/325b6800-7223-4f48-b7ec-aaaefc8e2435" width="15" height="15"> Git, 
-  <img src="https://github.com/ouxi8/ouxi8/assets/110427518/ce4ee373-7795-46e2-8db2-6f19d6353d51" width="15" height="15"> Github and 
-  <img src="https://github.com/ouxi8/ouxi8/assets/110427518/f635e790-47fd-40ec-95c8-3e2ce1c5d646" width="15" height="15"> Ubuntu.
+  <img src="https://github.com/ouxi8/ouxi8/assets/110427518/ce4ee373-7795-46e2-8db2-6f19d6353d51" width="15" height="15"> Github, 
+  <img src="https://github.com/ouxi8/ouxi8/assets/110427518/f635e790-47fd-40ec-95c8-3e2ce1c5d646" width="15" height="15"> Ubuntu and 
+  <img src="https://github.com/ouxi8/ouxi8/assets/110427518/536f795e-34f3-4e72-9ac3-a15707022825" width="15" height="15"> MySQL.
 - 🚀 Currently exploring app development with
   <img src="https://github.com/ouxi8/ouxi8/assets/110427518/b34040ef-c44d-4b96-92f3-d9d0ce442f54" width="15" height="15"> Flutter.
 
