@@ -8,7 +8,7 @@ Hello there! 👋 I'm Ou Xiang an electronics and automation student who has a g
 - 💻 Proficient in 
   <img src="https://github.com/ouxi8/ouxi8/assets/110427518/0a4de694-7ef1-4cf6-a116-920d94384aaf" width="15" height="15"> Python, 
   <img src="https://github.com/ouxi8/ouxi8/assets/110427518/ca363c25-65e0-49d4-be86-8f23ed291b23" width="15" height="15"> MATLAB, 
-  <img src="https://github.com/ouxi8/ouxi8/assets/110427518/ab2c8300-41f0-43b5-a6a1-d57bd53d0b38" width="15" height="15"> C++, and 
+  <img src="https://github.com/ouxi8/ouxi8/assets/110427518/ab2c8300-41f0-43b5-a6a1-d57bd53d0b38" width="15" height="15"> C/C++, and 
   <img src="https://github.com/ouxi8/ouxi8/assets/110427518/c0963399-dfe2-42a9-a4fb-3581d7fd6b5c" width="15" height="15"> Arduino.
 - 🌐 Familiar with 
   <img src="https://github.com/ouxi8/ouxi8/assets/110427518/325b6800-7223-4f48-b7ec-aaaefc8e2435" width="15" height="15"> Git, 
